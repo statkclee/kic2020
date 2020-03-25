@@ -1,0 +1,64 @@
+---
+title: "KIC 2020"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: readable
+    logo: fig/kpmg-logo.png
+    source_code: embed
+    vertical_layout: fill
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+# PR
+
+Column
+--------------------------------------------------------------------------------
+
+### 'KPMG Ideathon’ 개최 사후 보도결과
+
+```{r read-news}
+library(tabulizer)
+library(tidyverse)
+
+press_table <- extract_tables(
+  "data/보도결과_KPMG_Ideathon_20200302.pdf",
+  pages=1,
+  output = "data.frame",
+  # method = "decide",
+  guess = TRUE)
+
+press_df <- press_table %>% .[[1]] %>% janitor::clean_names()
+
+press_df %>% 
+  select(-no) %>% 
+  mutate(`기_사_제_목` = str_sub(`기_사_제_목`, 1, 20)) %>% 
+  DT::datatable()
+```
+
+Column {.tabset}
+-------------------------------------
+
+### Munhwa(문화일보)
+
+```{r read-news-문화일보, eval = FALSE}
+library(webshot2)
+
+webshot("http://www.munhwa.com/news/view.html?no=2020022801073621337001", cliprect=c(5, 450, 700, 1050), "fig/문화일보.png")
+```
+
+![](fig/문화일보.png)
+
+### YNA(연합뉴스)
+
+```{r read-news-연합뉴스, eval = FALSE}
+library(webshot2)
+
+webshot("https://www.yna.co.kr/view/AKR20200227167200008", cliprect=c(5, 170, 750, 1000), "fig/연합뉴스.png")
+```
+
+![](fig/연합뉴스.png)

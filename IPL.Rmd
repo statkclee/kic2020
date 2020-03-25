@@ -1,0 +1,26 @@
+---
+title: "KIC 2020"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: readable
+    logo: fig/kpmg-logo.png
+    orientation: columns
+    source_code: embed
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+# IPL
+
+- IPL(Image Processing LAB) team member
+  - 오진선
+  - 고금주
+  - 이동우
+  - 주정윤
+
+
+
+

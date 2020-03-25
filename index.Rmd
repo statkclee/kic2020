@@ -1,0 +1,28 @@
+---
+title: "KIC 2020"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: readable
+    logo: fig/kpmg-logo.png
+    orientation: columns
+    source_code: embed
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+options(knitr.duplicate.label = 'allow')
+```
+
+
+```{r child="program.Rmd"}
+```
+
+```{r child="IPL.Rmd"}
+```
+
+```{r child="product.Rmd"}
+```
+
+```{r child="PR.Rmd"}
+```
