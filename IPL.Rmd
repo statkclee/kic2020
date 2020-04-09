@@ -13,129 +13,137 @@ output:
 library(flexdashboard)
 ```
 
-# IPL
+Column {.tabset}
+-
+
+### About IPL
 
 - IPL(Image Processing LAB) team member
-  - 오진선
-  - 고금주
-  - 이동우
-  - 주정윤
-<br/><br/>
+  - JinSeon Oh(오진선)
+  - GeumJu Ko (고금주)
+  - DongWoo Lee(이동우)
+  - JeongYoon Joo(주정윤)
 
-# About IPL
-## JinSeon Oh
----
-* Name : JinSeon Oh<br/>
-* Incharge : Image Processing LAB, Bachelor of dept.Computer Science Engineering @ Univ.SoonCheonHyang<br/>
+### JinSeon Oh
+<br>
 
-## Current Interest
----
-* Artifitial Intelligence<br/>
-* Machine Learning<br/>
-* Deep Learning<br/>
-* Computer Vision<br/>
-* Data Analysis<br/>
+* Name : JinSeon Oh
+* Incharge : Image Processing LAB, Bachelor of dept.Computer Science Engineering @ Univ.SoonCheonHyang
 
-## Career & Activities
----
-* <pre>2018.04 ~ 2019.11</pre> member of IPL@SCH<br/>
-* <pre>2019.03 ~ 2019.08</pre> manager of LikeLion7th@SCH<br/>
-* <pre>2019.08 ~ 2020.12</pre> Representative of LikeLion7th@SCH<br/>
-* <pre>2019.09 ~        </pre> member of DSC@SCH<br/>
-* <pre>2019.11 ~        </pre> Leader of IPL@SCH<br/>
+#### Current Interest
 
-## Let me say one thing...
----
-Thank you for your high regard for our insufficient project.<br/>
-I would like to urge myself to continue growing.<br/>
+* Artifitial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Data Analysis
 
-## Contact
----
-* Email : [ohjinjin0408@naver.com](ohjinjin0408@naver.com)<br/>
-* Git : [github.com/ohjinjin](https://github.com/ohjinjin/)<br/>
-* Blog : [ohjinjin.github.io](https://ohjinjin.github.io/)<br/>
-* Facebook : [www.facebook.com/profile.php?id=xxx](https://www.facebook.com/profile.php?id=100005514605569)<br/>
-* Address : M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA<br/>
+#### Career & Activities
 
-## GeumJu Ko
----
-* Name : GeumJu Ko<br/>
-* Incharge : Image Processing LAB, Bachelor of dept.Computer Science Engineering @ Univ.SoonCheonHyang<br/>
+* 2018.04 ~ 2019.11 member of IPL@SCH
+* 2019.03 ~ 2019.08 manager of LikeLion7th@SCH
+* 2019.08 ~ 2020.12 Representative of LikeLion7th@SCH
+* 2019.09 ~         member of DSC@SCH
+* 2019.11 ~         Leader of IPL@SCH
 
-## Current Interest
----
+#### Let me say one thing...
+
+Thank you for your high regard for our insufficient project.
+I would like to urge myself to continue growing.
+
+#### Contact
+
+* Email : [ohjinjin0408@naver.com](ohjinjin0408@naver.com)
+* Git : [github.com/ohjinjin](https://github.com/ohjinjin/)
+* Blog : [ohjinjin.github.io](https://ohjinjin.github.io/)
+* Facebook : [www.facebook.com/profile.php?id=xxx](https://www.facebook.com/profile.php?id=100005514605569)
+* Address : M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA
+
+### GeumJu Ko
+
+<br>
+
+* Name : GeumJu Ko
+* Incharge : Image Processing LAB, Bachelor of dept.Computer Science Engineering @ Univ.SoonCheonHyang
+
+#### Current Interest
+
 * Artifitial Intelligence
 * Computer Vision
 * Data Science
 
-## Career & Activities
----
-* <pre>2018.09 ~        </pre> member of IPL@SCH<br/>
+#### Career & Activities
 
-## Let me say one thing…
----
-I am happy to have a good experience participating in Kpmg ideathon 2020.<br/>
-I will continue to show you my growth.<br/>
+* 2018.09 ~         member of IPL@SCH
 
-## Contact
----
-* Email : [rmawnrj@gmail.com](https://rmawnrj@gmail.com)<br/>
-* Git : [github.com/bcloved](https://github.com/bcloved)<br/>
-* Blog : [bcloved.github.io](https://bcloved.github.io)<br/>
-* Address : M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA<br/>
+#### Let me say one thing…
 
-## DongWoo Lee
----
-* Name : DongWoo Lee<br/>
-* Incharge : Image Processing LAB, Bacheler of dept. Computer Science Engineering @ Univ.SoonCheonHyang<br/>
+I am happy to have a good experience participating in Kpmg ideathon 2020.
+I will continue to show you my growth.
 
-## Current Interest
----
-* Application<br/>
-* Internet of Things<br/>
-* Sensor of Hardware<br/>
+#### Contact
 
-## Career & Activities
----
-* <pre>2015.03 ~        </pre>attending in SCH<br/>
-* <pre>2019.04 ~        </pre>Member of IPL Lab in SCH<br/>
+* Email : [rmawnrj@gmail.com](https://rmawnrj@gmail.com)
+* Git : [github.com/bcloved](https://github.com/bcloved)
+* Blog : [bcloved.github.io](https://bcloved.github.io)
+* Address : M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA
 
-## Let me say one thing
----
-Through this good opportunity, I will show my progress and become a person who is not lazy and tries hard.<br/>
+### DongWoo Lee
 
-## Contact
----
-* Email : [ehddn216@gmail.com](https://ehddn216@gmail.com)<br/>
-* Git : [github.com/edw216](https://github.com/edw216/)<br/>
-* Blog : [edw216.github.io](https://edw216.github.io/)<br/>
-* Address :M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA<br/>
+<br>
 
-## JeongYoon Joo
----
-* Name : JeongYoon Joo</br>
-* Incharge : Image Processing LAB, Bachelor of dept.Computer Science Engineering @ Univ.SoonCheonHyang</br>
+* Name : DongWoo Lee
+* Incharge : Image Processing LAB, Bacheler of dept. Computer Science Engineering @ Univ.SoonCheonHyang
 
-## Current Interest
----
-* Front-End & Back-End</br>
-* Machine Learning</br>
-* Unity Dev</br>
+#### Current Interest
 
-## Career & Activities
----
-* <pre>2019.06 ~        </pre>member of IPL@SCH</br>
-* <pre>2019.09 ~        </pre>core member of DSC@SCH</br>
+* Application
+* Internet of Things
+* Sensor of Hardware
+
+#### Career & Activities
+
+* 2015.03 ~        attending in SCH
+* 2019.04 ~        Member of IPL Lab in SCH
+
+#### Let me say one thing
+
+Through this good opportunity, I will show my progress and become a person who is not lazy and tries hard.
+
+#### Contact
+
+* Email : [ehddn216@gmail.com](https://ehddn216@gmail.com)
+* Git : [github.com/edw216](https://github.com/edw216/)
+* Blog : [edw216.github.io](https://edw216.github.io/)
+* Address :M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA
+
+### JeongYoon Joo
+
+<br>
+
+* Name : JeongYoon Joo
+* Incharge : Image Processing LAB, Bachelor of dept.Computer Science Engineering @ Univ.SoonCheonHyang
+
+#### Current Interest
+
+* Front-End & Back-End
+* Machine Learning
+* Unity Dev
+
+#### Career & Activities
+
+* 2019.06 ~        member of IPL@SCH
+* 2019.09 ~        core member of DSC@SCH
 
 
-## Let me say one thing
----
-I will always be a developing developer.</br>
+#### Let me say one thing
 
-## Contact
----
-* Email : [yoon913612@gmail.com](https://yoon913612@gmail.com)</br>
-* Git : [github.com/JOLLA99](https://github.com/JOLLA99)</br>
-* Blog : [jolla99.github.io](https://jolla99.github.io)</br>
-* Address : M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA</br>
+I will always be a developing developer.
+
+#### Contact
+
+* Email : [yoon913612@gmail.com](https://yoon913612@gmail.com)
+* Git : [github.com/JOLLA99](https://github.com/JOLLA99)
+* Blog : [jolla99.github.io](https://jolla99.github.io)
+* Address : M612 Univ.SoonCheonHyang 22, Soonchunhyang-ro, Sinchang-myeon, Asan-si, Chungcheongnam-do, 31538, Rep. of KOREA
 
