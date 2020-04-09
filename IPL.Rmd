@@ -13,12 +13,15 @@ output:
 library(flexdashboard)
 ```
 
+About IPL {data-icon="fa-chart-bar"}
+=============================================================================
+
 Column {.tabset}
--
+-----------------------------------------------------------------------------
 
-### About IPL
+### Team
 
-- IPL(Image Processing LAB) team member
+- IPL(Image Processing LAB)
   - JinSeon Oh(오진선)
   - GeumJu Ko (고금주)
   - DongWoo Lee(이동우)

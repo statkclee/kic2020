@@ -13,7 +13,9 @@ output:
 library(flexdashboard)
 ```
 
-# KIC Program
+
+KIC Program {data-icon="fa-hackerrank"}
+=============================================================================
 
 
 

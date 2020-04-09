@@ -13,7 +13,8 @@ output:
 library(flexdashboard)
 ```
 
-# Product
+Product {data-icon="fa-shopping-cart"}
+=============================================================================
 
 
 
