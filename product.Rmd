@@ -14,7 +14,6 @@ library(flexdashboard)
 ```
 
 Product {data-icon="fa-shopping-cart"}
-=============================================================================
+====================================================================================
 
-
-
+- [Implementation of Smart Shopping Cart using Object Detection Method based on Deep Learning](paper/index.pdf)
