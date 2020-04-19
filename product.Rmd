@@ -16,4 +16,19 @@ library(flexdashboard)
 Product {data-icon="fa-shopping-cart"}
 ====================================================================================
 
-- [Implementation of Smart Shopping Cart using Object Detection Method based on Deep Learning](paper/index.pdf)
+- (KOR)[딥러닝 객체탐지를 이용한 스마트 쇼핑카트의 구현](paper/index.pdf)<!--(paper/index_kor.pdf)-->
+- (ENG)[Implementation of Smart Shopping Cart using Object Detection Method based on Deep Learning](paper/index.pdf)<!--(paper/index_eng.pdf)-->
+Recently, many attempts have been made to reduce the time required for payment in various   shopping environments.<br/>
+  In addition, as the 4th Industrial Revolution era, artificial Intelligence technology is   advancing and IoT devices are becoming more compact and cheaper.<br/>
+  So, by integrating these two thechnologies, access to building an unmanned environment on   behalf of human beings to save users’ time became easier.<br/>
+  In this paper, we propose a smart shopping cart system based on low-cost IoT equipment and   deep learning object detection technology.<br/>
+  The proposed smart cart system consists of a camera for real-time product detection, an   ultrasonic sensor that acts as a trigger, a weight sensor to determine whether a product   enters into or out of shopping cart, and an application of smartphone that provides a UI for a   virtual shopping cart, and a deep learning server where learned product data are stored.<br/>
+  Commuication between each module is made of TCP/IP and HTTP network, and YOLO darknet library,   an object detection system is used by the server to recognize the product.<br/>
+  The user can check the list of items put in the smart cart through the app of the smartphone   and automatically pay.<br/>
+  The smart cart system proposed in this paper can be applied to implement unmanned stores with high cost-performance ratio.<br/>
+
+* Related Post URL : [https://ohjinjin.github.io/projects/IPLI/](https://ohjinjin.github.io/projects/IPLI/)
+* Git Repo URL : [https://github.com/IPLI](https://github.com/IPLI)
+* Video of execution : [https://youtu.be/Cik78MP8W3E](https://youtu.be/Cik78MP8W3E)
+* Press Release URL : [http://m.etoday.co.kr/view.php?idxno=1862966](http://m.etoday.co.kr/view.php?idxno=1862966)
+* KIC 2020 site URL : [https://statkclee.github.io/kic2020/](https://statkclee.github.io/kic2020/)
