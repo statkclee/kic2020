@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.1.25)  20 APR 2020 08:59
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.1.25)  20 APR 2020 08:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**index.tex
-(./index.tex
+**index_kor.tex
+(./index_kor.tex
 LaTeX2e <2019-10-01> patch level 3
 (./svjour3.cls
 Document Class: svjour3 2007/05/08 v3.2 
@@ -514,8 +514,8 @@ Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) (./index.aux)
-\openout1 = `index.aux'.
+) (./index_kor.aux)
+\openout1 = `index_kor.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
@@ -553,9 +553,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 38.
 LaTeX Info: Redefining \pageref on input line 38.
 LaTeX Info: Redefining \nameref on input line 38.
-(./index.out) (./index.out)
+(./index_kor.out) (./index_kor.out)
 \@outlinefile=\write3
-\openout3 = `index.out'.
+\openout3 = `index_kor.out'.
 
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -674,106 +674,122 @@ an-si,
  []
 
 
-SVJour3 Warning: Title too long for running head.
-Please supply a shorter form with \titlerunning prior to \maketitle
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--90
+Underfull \hbox (badness 10000) in paragraph at lines 64--106
 
  []
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
-)
-Underfull \vbox (badness 6016) has occurred while \output is active []
-
-[1]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[2]
+) [1] [2]
 File: ../fig/fig1.png Graphic file (type bmp)
 <../fig/fig1.png>
+
+Overfull \hbox (11.28162pt too wide) in paragraph at lines 172--174
+[][] \TU/lmr/m/n/10 Fig.
+ []
+
 File: ../fig/fig2.png Graphic file (type bmp)
 <../fig/fig2.png>
+
+Overfull \hbox (12.50673pt too wide) in paragraph at lines 175--177
+[][] \TU/lmr/m/n/10 Fig.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[3]
 File: ../fig/fig3.png Graphic file (type bmp)
 <../fig/fig3.png>
 
-Overfull \hbox (1.2841pt too wide) in paragraph at lines 188--189
- [][] 
+Overfull \hbox (16.2841pt too wide) in paragraph at lines 181--183
+[][]
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[4]
 File: ../fig/table1.png Graphic file (type bmp)
 <../fig/table1.png>
 
-Overfull \hbox (1.2841pt too wide) in paragraph at lines 206--207
- [][] 
+Overfull \hbox (16.2841pt too wide) in paragraph at lines 192--193
+[][] 
  []
 
 
-Underfull \vbox (badness 2452) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[3]
+[5] [6]
 File: ../fig/fig4.png Graphic file (type bmp)
 <../fig/fig4.png>
 
-Overfull \hbox (29.39049pt too wide) in paragraph at lines 243--244
- [][] 
+Overfull \hbox (44.39049pt too wide) in paragraph at lines 222--224
+[][]
  []
 
-[4]
-Underfull \vbox (badness 5504) has occurred while \output is active []
-
-[5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[6]
+[7]
 File: ../fig/fig5.png Graphic file (type bmp)
 <../fig/fig5.png>
 
-Underfull \vbox (badness 1033) has occurred while \output is active []
+Overfull \hbox (4.25504pt too wide) in paragraph at lines 277--279
+[][] \TU/lmr/m/n/10 Fig.
+ []
 
-[7]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [8]
 File: ../fig/fig6.png Graphic file (type bmp)
 <../fig/fig6.png>
 
-Overfull \hbox (30.39427pt too wide) in paragraph at lines 350--351
- [][] 
+Overfull \hbox (45.39427pt too wide) in paragraph at lines 303--305
+[][]
  []
 
+[9]
 File: ../fig/fig7.png Graphic file (type bmp)
 <../fig/fig7.png>
 
-Underfull \vbox (badness 2617) has occurred while \output is active []
+Overfull \hbox (16.91794pt too wide) in paragraph at lines 311--315
+[][] \TU/lmr/m/n/10 Fig. 7.Work-
+ []
 
-[9]
 File: ../fig/fig8.png Graphic file (type bmp)
 <../fig/fig8.png>
+
+Overfull \hbox (13.38719pt too wide) in paragraph at lines 329--330
+[][] \TU/lmr/m/n/10 Fig. 8.Annotation with YOLO-
+ []
+
+[10]
 File: ../fig/fig9.png Graphic file (type bmp)
 <../fig/fig9.png>
-[10]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[11]
 File: ../fig/table2.png Graphic file (type bmp)
 <../fig/table2.png>
-[11] [12] (./index.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 473.
+[12] (./index_kor.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 394.
 [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 473.
-(./index.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 473.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 473.
-Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: BF8C4B09ABB2CE9A9E2A34D390F46933;285.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 473.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 394.
+(./index_kor.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 394.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 394.
+Package rerunfilecheck Info: File `index_kor.out' has not changed.
+(rerunfilecheck)             Checksum: CEDC67DD160E6F93C69BB4F8304CEE9A;245.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 394.
  ) 
 Here is how much of TeX's memory you used:
- 26540 strings out of 492472
- 475399 string characters out of 6129298
- 544127 words of memory out of 5000000
- 30792 multiletter control sequences out of 15000+600000
- 538478 words of font info for 81 fonts, out of 8000000 for 9000
+ 26547 strings out of 492472
+ 475937 string characters out of 6129298
+ 553815 words of memory out of 5000000
+ 30795 multiletter control sequences out of 15000+600000
+ 538502 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,8n,76p,415b,2559s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,76p,419b,2559s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on index.pdf (13 pages).
+Output written on index_kor.pdf (13 pages).

@@ -16,8 +16,13 @@ library(flexdashboard)
 Product {data-icon="fa-shopping-cart"}
 ====================================================================================
 
-- (KOR)[딥러닝 객체탐지를 이용한 스마트 쇼핑카트의 구현](paper/index.pdf)<!--(paper/index_kor.pdf)-->
-- (ENG)[Implementation of Smart Shopping Cart using Object Detection Method based on Deep Learning](paper/index.pdf)<!--(paper/index_eng.pdf)-->
+<br/>
+
+- (KOR)[딥러닝 객체탐지를 이용한 스마트 쇼핑카트의 구현](paper/index_kor.pdf)
+- (ENG)[Implementation of Smart Shopping Cart using Object Detection Method based on Deep Learning](paper/index.pdf)
+
+---
+
 Recently, many attempts have been made to reduce the time required for payment in various   shopping environments.<br/>
   In addition, as the 4th Industrial Revolution era, artificial Intelligence technology is   advancing and IoT devices are becoming more compact and cheaper.<br/>
   So, by integrating these two thechnologies, access to building an unmanned environment on   behalf of human beings to save users’ time became easier.<br/>
@@ -26,6 +31,8 @@ Recently, many attempts have been made to reduce the time required for payment i
   Commuication between each module is made of TCP/IP and HTTP network, and YOLO darknet library,   an object detection system is used by the server to recognize the product.<br/>
   The user can check the list of items put in the smart cart through the app of the smartphone   and automatically pay.<br/>
   The smart cart system proposed in this paper can be applied to implement unmanned stores with high cost-performance ratio.<br/>
+
+---
 
 * Related Post URL : [https://ohjinjin.github.io/projects/IPLI/](https://ohjinjin.github.io/projects/IPLI/)
 * Git Repo URL : [https://github.com/IPLI](https://github.com/IPLI)
