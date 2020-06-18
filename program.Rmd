@@ -17,5 +17,5 @@ library(flexdashboard)
 KIC Program {data-icon="fa-hackerrank"}
 =============================================================================
 
-
+![](fig/Eng_Ideation Challenge_Poster_WEB.jpg)
 
